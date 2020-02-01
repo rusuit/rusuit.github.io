@@ -1,17 +1,17 @@
 h1, h2, p, span, ul {
-  margin: 0;
+  margin: 110;
 }
 
 .main-text {
-  margin-top: 0px;
+  margin-top: 110px;
   background: yellow;
   font-weight: bold;
 }
 
 ul li {
-  margin-top: 0px;
+  margin-top: 110px;
 }
 
 span.icon {
-  margin-right: 0px;
+  margin-right: 110px;
 }
